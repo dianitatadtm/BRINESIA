@@ -1,2 +1,2 @@
-# BRINESIA
-Repository for BRINESIA
+# MyRepository
+This repository belongs to internal document
